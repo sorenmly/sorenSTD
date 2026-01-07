@@ -6,6 +6,7 @@ Hello! Gamemaker is a really cool engine! But there's lot of things that i wish 
 - Math Cool Things (Vectors, Curves...)
 - Input Management (This one is really cool)
 - Camera Management
+- Physics (like verlet ropes)
 - (and there will be more!!)
 
 # How to use
