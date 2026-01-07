@@ -16,4 +16,4 @@ The syntax is a little different: i LOVE c++ and i don't love library conflicts 
 like `Input.bind_key()`;
 
 # Note
-**I'm not the best programmer on earth (like Terry Davis), so expect some bad things. But hey, this is an open-source project! You can fork this or even PR to made or add something you like!**
+**I'm not the best programmer on earth (like Terry Davis), so expect some bad things. But hey, this is an open-source project! You can fork this or even PR to make or add something you like!**
