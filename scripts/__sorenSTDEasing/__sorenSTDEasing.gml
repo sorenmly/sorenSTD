@@ -299,5 +299,17 @@ global.__Srn_Namespace_Math = {
     verlet_create_world: __Srn_Verlet_Create_World,
     verlet_config_class: __Srn_Verlet_World_Config_Class,
     
+    // Vectors
     vec2: __Srn_Vec2,
+    vec2_dot: __Srn_Vec2_Dot,
+    vec2_distance: __Srn_Vec2_Distance,
+    
+    vec3: __Srn_Vec3,
+    vec3_dot: __Srn_Vec3_Dot,
+    vec3_distance: __Srn_Vec3_Distance,
+    vec3_cross: __Srn_Vec3_Cross,
+    
+    vec4: __Srn_Vec4,
+    vec4_dot: __Srn_Vec4_Dot,
+    vec4_distance: __Srn_Vec4_Distance
 };
